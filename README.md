@@ -1,0 +1,2 @@
+# hatena-blog-parser
+はてなブログのRSSをXMLHttpRequestで取得してパースするスクリプトです
